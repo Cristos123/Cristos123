@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cristos123
 - 👀 I’m interested in fullstack role, frontend, backend, using javascript, reactjs, nodejs
 - 🌱 I’m currently learning web3, solidity,nestjs,nextjs
-- eyes Interested in solving emerging problems with my programming knowledge
-- seedling A full-stack developer with proficiency in Frontend language and frameworks/libraries (Javascript, ReactJS, AngularJS, Redux, Material UI, Styled-components, etc) and Nodejs framework for backend programming, serverless, amazon web services, CI/CD and other devOps tools
+-  Interested in solving emerging problems with my programming knowledge
+-  A full-stack developer with proficiency in Frontend language and frameworks/libraries (Javascript, ReactJS, AngularJS, Redux, Material UI, Styled-components, etc) and Nodejs framework for backend programming, serverless, amazon web services, CI/CD and other devOps tools
 - revolving_hearts Looking to collaborate on projects that will enhance my skills and growth
 - 💞️ I’m looking to collaborate on any available role in your company
 - 📫 How to reach me on osunkile4live@gmail.com, whatsapp on +2348102267486
